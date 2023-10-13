@@ -1,0 +1,9 @@
+package java_231006;
+
+public class review {
+	public static void main(String[] args) {
+		// 객체 배열
+		// 배열로 공간 할당 -> 객체 생성
+		
+	}
+}

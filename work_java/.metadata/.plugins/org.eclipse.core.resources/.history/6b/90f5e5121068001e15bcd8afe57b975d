@@ -1,0 +1,106 @@
+package java_231011;
+import java.util.Scanner;
+// Character 인터페이스 작성
+interface Character{
+	// 메소드 : attack()
+	abstract public void attack();
+	// 메소드 : minus(int)
+	public void minus(int d);
+}
+// User 클래스 작성 -> Character 인터페이스 상속
+class User implements Character{
+	// 멤버 변수 : hp = 100, mp = 100, 공격럭(hit), 방어력(defense)
+	private int hp = 100;
+	private int mp = 100;
+	private int hit;
+	private int defense;
+	// get set
+	public double getHp() {
+		return hp;
+	}
+	public void setHp(int hp) {
+		this.hp = hp;
+	}
+	public int getMp() {
+		return mp;
+	}
+	public void setMp(int mp) {
+		this.mp = mp;
+	}
+	public int getDefense() {
+		return defense;
+	}
+	public void setDefense(int defense) {
+		this.defense = defense;
+	}
+	public int getHit() {
+		return hit;
+	}
+	public void setHit(int hit) {
+		this.hit = hit;
+	}
+	// 메소드 : attack() -> mp 를 10 소모(상대 공격)
+	// 					  데미지를 줬다는 것을 출력함과 동시에, 남은 User mp 를 출력
+	public void attack() {
+		this.mp = this.mp - 10;
+		
+		System.out.println( "데미지를 줬습니다. 남은 mp : " + this.mp);
+	}
+	// 메소드 : minus(int) -> 매개변수 값의 1/defense 값만큼 hp 감소
+	//					    데미지를 받았다는 것을 출력함과 동시에, 남은 User hp 를 출력
+	public void minus(int hit) {
+		int attack = hit / this.defense;
+		this.hp = this.hp - attack;
+		System.out.println(attack + "만큼 데미지를 받았습니다. 남은 hp : " + this.hp);
+	}
+	public User(int hit, int d) {
+		this.hit = hit;
+		this.defense = d;
+	}
+}
+
+public class Ex_ {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		// User에 대한 객체 2개(user1, user2) 생성      입력을 통한 멤버 초기화)
+		System.out.println("공, 방 입력");
+		User user1 = new User(scan.nextInt(),scan.nextInt());
+		User user2 = new User(scan.nextInt(),scan.nextInt());
+		// user1을 시작으로 하여, user1과 user2가 서로 공격을 시도한다.
+		// 전투 진행 중, 어느 한쪽이 mp 또는 hp가 모두 소모되면 승부가 결정된다.
+		// 만약 두 유저 모두 mp가 떨어졌다면, 남은 hp가 가장 많은 쪽이 우승한다.
+		// (hp 값이 같다면, 무승부 처리)
+		// -> 각 입력에 따라, 누가 대결에서 승리하는지를 출력하도록 하라.
+		while(user1.getMp() !=0 || user2.getMp() !=0) {
+			System.out.print("user1의 공격! ");
+			user1.attack();
+			System.out.print("user2가 ");
+			user2.minus(user1.getHit());
+			if(user2.getHp() <= 0) {
+				System.out.println("user1 승리!");
+				break;
+			}
+			System.out.print("user2의 공격! ");
+			user2.attack();
+			System.out.print("user1이 ");
+			user1.minus(user2.getHit());
+			if(user1.getHp() <= 0) {
+				System.out.println("user2 승리!");
+				break;
+			}
+		}
+		
+		if(user1.getMp() == 0 || user2.getMp() == 0) {
+			if(user1.getHp() > user2.getHp()) {
+				System.out.println("user1의 승리");
+			}
+			else if(user1.getHp() < user2.getHp()) {
+				System.out.println("user2의 승리");
+			}
+			else {
+				System.out.println("무승부");
+			}
+		}
+		
+	}
+}

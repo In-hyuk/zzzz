@@ -1,0 +1,40 @@
+package java_231006;
+// Clock 클래스
+class Clock{
+	// 멤버 변수 : hour, minute, second
+	public int hour;
+	public int minute;
+	public int second;
+	// 메소드 : Setting(int, int, int) -> 시간 설정
+	public void Setting(int h, int m, int s) {
+		this.hour = h;
+		this.minute = m;
+		this.second = s;
+	}
+}
+// Watch 클래스 ( Clock 클래스 상속받기)
+class Watch extends Clock{
+	// 멤버 변수 : hour, minute, second, StrapColor
+	public String StrapColor;	// Clock 클래스 상속 받았기 때문에 StrapColor변수만 추가.
+	// 메소드 : Setting(int, int, int) -> 시간 설정, StrapColor = "Black"
+	public void Setting(int h, int m, int s) {
+		
+	}
+	// 메소드 : Setting(int, int, int, String) -> 시간 및 시계줄 색상 설정
+	public void Setting(int h, int m, int s, String strap) {
+		
+	}
+}
+// SmartWatch 클래스
+class SmartWatch extends Watch{
+	// 멤버 변수 : hour, minute, second, StrapColor, os
+	public String os;
+	// 메소드 : Setting(int, int, int) -> 시간 설정, StrapColor = "Black", os = "null"
+	// 메소드 : Setting(int, int, int, String) -> 시간 및 시계줄 색상 설정, os = "null"
+	// 메소드 : Setting(int, int, int, String, String) -> 시간 및 시계줄 색상, os 설정
+}
+
+public class Ex_ {
+	public static void main(String[] args) {
+	}
+}
