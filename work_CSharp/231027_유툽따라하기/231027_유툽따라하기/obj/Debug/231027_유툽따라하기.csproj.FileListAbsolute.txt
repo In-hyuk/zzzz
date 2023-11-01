@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\bin\Debug\231027_유툽따라하기.exe.config
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\bin\Debug\231027_유툽따라하기.exe
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\bin\Debug\231027_유툽따라하기.pdb
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\231027_유툽따라하기.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\_231027_유툽따라하기.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\_231027_유툽따라하기.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\231027_유툽따라하기.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\231027_유툽따라하기.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\231027_유툽따라하기.exe
+C:\Users\user\Desktop\work_CSharp\231027_유툽따라하기\231027_유툽따라하기\obj\Debug\231027_유툽따라하기.pdb

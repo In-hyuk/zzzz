@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\bin\Debug\그냥연습.exe.config
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\bin\Debug\그냥연습.exe
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\bin\Debug\그냥연습.pdb
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\obj\Debug\그냥연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\obj\Debug\그냥연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\obj\Debug\그냥연습.exe
+C:\Users\user\Desktop\work_CSharp\그냥연습\그냥연습\obj\Debug\그냥연습.pdb

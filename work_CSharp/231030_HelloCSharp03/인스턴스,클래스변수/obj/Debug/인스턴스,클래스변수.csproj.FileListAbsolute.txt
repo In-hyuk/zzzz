@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\bin\Debug\인스턴스,클래스변수.exe.config
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\bin\Debug\인스턴스,클래스변수.exe
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\bin\Debug\인스턴스,클래스변수.pdb
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\obj\Debug\인스턴스,클래스변수.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\obj\Debug\인스턴스_클래스변수.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\obj\Debug\인스턴스,클래스변수.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\obj\Debug\인스턴스,클래스변수.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\obj\Debug\인스턴스,클래스변수.exe
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\인스턴스,클래스변수\obj\Debug\인스턴스,클래스변수.pdb

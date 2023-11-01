@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\bin\Debug\231026_예제답.exe.config
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\bin\Debug\231026_예제답.exe
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\bin\Debug\231026_예제답.pdb
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\obj\Debug\231026_예제답.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\obj\Debug\231026_예제답.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\obj\Debug\231026_예제답.exe
+C:\Users\user\Desktop\work_CSharp\231026_예제실습\231026_예제답\obj\Debug\231026_예제답.pdb

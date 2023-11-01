@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\bin\Debug\ppt5단원실습.exe.config
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\bin\Debug\ppt5단원실습.exe
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\bin\Debug\ppt5단원실습.pdb
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.exe
+C:\Users\user\Desktop\work_CSharp\231030_HelloCSharp03\ppt5단원실습\obj\Debug\ppt5단원실습.pdb

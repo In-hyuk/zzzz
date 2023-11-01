@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\bin\Debug\@abstract.exe.config
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\bin\Debug\@abstract.exe
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\bin\Debug\@abstract.pdb
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\추상연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\abstract.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\추상연습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\추상연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\@abstract.exe
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\@abstract.pdb
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\추상연습.Form2.resources
+C:\Users\user\Desktop\work_CSharp\231101_HelloCSharp05\abstract\obj\Debug\추상연습.Properties.Resources.resources

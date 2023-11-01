@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\bin\Debug\연습연습.exe.config
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\bin\Debug\연습연습.exe
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\bin\Debug\연습연습.pdb
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.Form1.resources
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.exe
+C:\Users\user\Desktop\work_CSharp\그냥연습\연습연습\obj\Debug\연습연습.pdb

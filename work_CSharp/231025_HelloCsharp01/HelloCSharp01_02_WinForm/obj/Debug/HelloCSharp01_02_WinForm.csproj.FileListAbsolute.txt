@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\bin\Debug\HelloCSharp01_02_WinForm.exe.config
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\bin\Debug\HelloCSharp01_02_WinForm.exe
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\bin\Debug\HelloCSharp01_02_WinForm.pdb
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.exe
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.pdb
+C:\Users\user\Desktop\work_CSharp\HelloCsharp01\HelloCSharp01_02_WinForm\obj\Debug\HelloCSharp01_02_WinForm.Form1.resources
