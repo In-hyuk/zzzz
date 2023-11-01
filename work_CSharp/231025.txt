@@ -1,0 +1,122 @@
+231025
+C# -> 웹 -> 파이썬
+C# 하고 나서 웹쪽(HTML 등등)
+상황에 따라 SPRING 할 수도 안 할 수도.?
+
+비주얼스튜디오 켜고
+.net 검색 후
+Windows Forms 앱(.NET Framework) / 콘솔 앱(.NET Framework)
+프레임워크 버전 .NET Framework 4.7.2
+
+윈도우폼.
+
+보기 -> 
+도구상자 ctrl + alt + x
+
+.Net FrameWork
+= 라이브러리 + 닷넷플랫폼
+
+Using = import랑 의미 비슷한듯
+namespace(이름공간)
+-> 프로그램 이름?
+
+C#에서 문자열 string s 소문자 써도 댐
+
+C#에서 정수 입력받기
+int a = int.Parse(Console.ReadLine());
+
+int.TryParse(Console.ReadLine(), out int r);
+
+C# 에서 배열 선언하기
+double[] arr = {3.14, 3.1415} ;
+
+컬렉션 -> 배열 혹은 리스트
+foreach ( var i in numbers )
+----------------------------------------------------------
+231026
+실습문제 품
+----------------------------------------------------------
+231027
+개행문자 - 줄바꿈 해주는 문자?
+버블정렬
+
+C# UI 연습 3개는 시청 필수!! 따라하기.
+1. https://www.youtube.com/watch?v=JB37jM9jXF4&t=120s
+2. https://www.youtube.com/watch?v=nLfzH4xOVqo&t=33s
+3. https://www.youtube.com/watch?v=K9Ps66GoD-k&t=498s
+----------------------------------------------------------
+231030
+윈도우폼도 클래스다.
+
+partial class
+(부분적인)
+c#에서는 상속 : 로 표시.
+
+java의 List랑 ArrayList 차이??
+List 는 인터페이스
+ArrayList 는 클래스, 즉 위의 List를 구현한 클래스.
+
+C# 에서의 List가 Java의 ArrayList랑 똑같다.
+
+일반 배열과 ArrayList는 인덱스로 객체를 관리한다는 점에서 동일,
+크기를 동적으로 늘릴 수 있다는 점에서 차이점이 있다.
+
+인스턴스 변수
+클래스 변수 -> static 붙는거?
+-----------------------------------------------------------
+231031
+c# 책 5단원까지 정독해보기?
+
+인스턴스 메서드
+클래스 메서드
+
+소멸자는 넘어감.
+
+상수는 대문자. Java에서는 final C#은 const
+
+값 복사, 참조 복사
+
+HashMap / Hash
+
+C# Dictionary 랑 Java의 HashMap이랑 같은듯?
+조퇴했음.
+-----------------------------------------------------------
+231101
+TryParse
+
+Java에는 super
+C#에는 base
+
+다형성 -> 다양한 형태로 변할 가능성
+코드의 중복을 방지하기 위해?
+
+오버라이딩 할때 virtual 써줘야함
+-> 상속관계
+
+-> 매개변수는 오버로딩
+
+동물 - abstract
+잠자기
+밥먹기
+
+고양이 - abstract(그냥으로도)
+털정리하기
+사냥하기
+
+사자
+호랑이
+길고양이
+
+
+
+
+
+
+
+
+
+
+
+
+
+
