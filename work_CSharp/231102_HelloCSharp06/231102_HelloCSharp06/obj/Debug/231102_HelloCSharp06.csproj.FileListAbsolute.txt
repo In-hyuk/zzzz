@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\bin\Debug\231102_HelloCSharp06.exe.config
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\bin\Debug\231102_HelloCSharp06.exe
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\bin\Debug\231102_HelloCSharp06.pdb
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\231102_HelloCSharp06.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\_231102_HelloCSharp06.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\_231102_HelloCSharp06.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\231102_HelloCSharp06.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\231102_HelloCSharp06.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\231102_HelloCSharp06.exe
+C:\Users\user\Desktop\work_CSharp\231102_HelloCSharp06\231102_HelloCSharp06\obj\Debug\231102_HelloCSharp06.pdb
