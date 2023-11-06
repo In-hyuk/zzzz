@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\bin\Debug\HeyLotto.exe.config
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\bin\Debug\HeyLotto.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\bin\Debug\HeyLotto.pdb
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.csproj.CopyComplete
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyLotto\obj\Debug\HeyLotto.pdb

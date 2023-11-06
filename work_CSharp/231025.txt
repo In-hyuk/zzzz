@@ -141,8 +141,20 @@ try catch finally
 Linq
 
 XML - 문서 양식
+-----------------------------------------------------------
+231106
+도서관리프로그램 실습
 
+C# chart 출력
 
+osi7 히히 ?
+
+API
+
+json 형태 읽어들일때 
+프로젝트 -> NuGet 패키지 관리 -> Newtonsoft.Josn 설치
+
+data.go.kr -> 회원가입
 
 
 

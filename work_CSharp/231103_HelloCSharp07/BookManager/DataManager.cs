@@ -61,14 +61,14 @@ namespace BookManager
                 }
                 string usersOutput = File.ReadAllText("./Users.xml");
                 XElement ux = XElement.Parse(usersOutput);
-                users = (from item in ux.Descendants("users")
+                users = (from item in ux.Descendants("user")
                          select new User()
                          {
                              Id= item.Element(ID).Value,
                              Name= item.Element(NAME).Value,
                          }).ToList<User>();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 Save(); // 예외 상황 발생시 파일을 만들고
                 Load(); // 다시 불러들인다.
@@ -88,7 +88,7 @@ namespace BookManager
                 booksOutput += $"      <{PUBLISHER}>{book.publisher}</{PUBLISHER}>\n";
                 booksOutput += $"      <{PAGE}>{book.page}</{PAGE}>\n";
                 booksOutput += $"      <{BORROWEDAT}>{book.BorrowedAt}</{BORROWEDAT}>\n";
-                booksOutput += $"      <{ISBORROWED}>" + (book.isBorrowed?1:0) + $"</{BORROWEDAT}>\n";
+                booksOutput += $"      <{ISBORROWED}>" + (book.isBorrowed?1:0) + $"</{ISBORROWED}>\n";
                 booksOutput += $"      <{USERID}>{book.userId}</{USERID}>\n";
                 booksOutput += $"      <{USERNAME}>{book.userName}</{USERNAME}>\n";
                 booksOutput += "    </book>\n";

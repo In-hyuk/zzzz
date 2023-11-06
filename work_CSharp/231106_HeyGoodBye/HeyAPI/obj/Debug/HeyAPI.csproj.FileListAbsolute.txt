@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\bin\Debug\HeyAPI.exe.config
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\bin\Debug\HeyAPI.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\bin\Debug\HeyAPI.pdb
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.csproj.CopyComplete
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyAPI\obj\Debug\HeyAPI.pdb
