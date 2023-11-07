@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\bin\Debug\231107_parkingcarmanager.exe.config
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\bin\Debug\231107_parkingcarmanager.exe
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\bin\Debug\231107_parkingcarmanager.pdb
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\231107_parkingcarmanager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\_231107_parkingcarmanager.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\_231107_parkingcarmanager.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\231107_parkingcarmanager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\231107_parkingcarmanager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\231107_parkingcarmanager.exe
+C:\Users\user\Desktop\work_CSharp\231107_parkingcarmanager\231107_parkingcarmanager\obj\Debug\231107_parkingcarmanager.pdb

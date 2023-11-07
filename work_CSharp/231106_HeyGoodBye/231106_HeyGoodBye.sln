@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeyLotto", "HeyLotto\HeyLot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeyAPI", "HeyAPI\HeyAPI.csproj", "{B131B625-D3D3-4EA9-B841-3C8215F47077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeyKaKaoAPIMap", "HeyKaKaoAPIMap\HeyKaKaoAPIMap.csproj", "{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B131B625-D3D3-4EA9-B841-3C8215F47077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B131B625-D3D3-4EA9-B841-3C8215F47077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B131B625-D3D3-4EA9-B841-3C8215F47077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

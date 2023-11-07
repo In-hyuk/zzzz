@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\bin\Debug\HeyKaKaoAPIMap.exe.config
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\bin\Debug\HeyKaKaoAPIMap.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\bin\Debug\HeyKaKaoAPIMap.pdb
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.csproj.CopyComplete
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\HeyKaKaoAPIMap\obj\Debug\HeyKaKaoAPIMap.pdb
