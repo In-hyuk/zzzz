@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\bin\Debug\231108_SingletonePattern.exe.config
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\bin\Debug\231108_SingletonePattern.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\bin\Debug\231108_SingletonePattern.pdb
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\231108_SingletonePattern.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\_231108_SingletonePattern.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\_231108_SingletonePattern.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\231108_SingletonePattern.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\231108_SingletonePattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\231108_SingletonePattern.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_SingletonePattern\obj\Debug\231108_SingletonePattern.pdb

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeyAPI", "HeyAPI\HeyAPI.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeyKaKaoAPIMap", "HeyKaKaoAPIMap\HeyKaKaoAPIMap.csproj", "{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231108_SingletonePattern", "231108_SingletonePattern\231108_SingletonePattern.csproj", "{3F497A51-50CB-4399-BC9A-78A495D600FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231108_ObserverPattern", "231108_ObserverPattern\231108_ObserverPattern.csproj", "{C712F93D-C071-434B-B4A2-5426255C337D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C3F85A-BAE8-4B8A-AD98-9A1C32E78D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F497A51-50CB-4399-BC9A-78A495D600FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F497A51-50CB-4399-BC9A-78A495D600FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F497A51-50CB-4399-BC9A-78A495D600FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F497A51-50CB-4399-BC9A-78A495D600FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C712F93D-C071-434B-B4A2-5426255C337D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C712F93D-C071-434B-B4A2-5426255C337D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C712F93D-C071-434B-B4A2-5426255C337D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C712F93D-C071-434B-B4A2-5426255C337D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

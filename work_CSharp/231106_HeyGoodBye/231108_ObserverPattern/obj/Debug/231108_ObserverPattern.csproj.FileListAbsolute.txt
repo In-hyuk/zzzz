@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\bin\Debug\231108_ObserverPattern.exe.config
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\bin\Debug\231108_ObserverPattern.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\bin\Debug\231108_ObserverPattern.pdb
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\231108_ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\_231108_ObserverPattern.Form1.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\_231108_ObserverPattern.Form2.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\_231108_ObserverPattern.Form3.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\_231108_ObserverPattern.Form4.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\_231108_ObserverPattern.Properties.Resources.resources
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\231108_ObserverPattern.csproj.GenerateResource.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\231108_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\231108_ObserverPattern.exe
+C:\Users\user\Desktop\work_CSharp\231106_HeyGoodBye\231108_ObserverPattern\obj\Debug\231108_ObserverPattern.pdb
