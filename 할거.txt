@@ -1,0 +1,35 @@
+할거
+
+1. DB를 MSSQL에 담아야함. (오픈 API ??)
+
+2. C# <-> MSSQL DB연동하기.
+
+3. 윈도우폼 DataGridView에 연동한 데이터 출력하기.
+
+4. 그 출력한 데이터마다 바코드 생성??
+
+5. 바코드 스캔 시 그 상품의 정보 나오게(가격등등)
+
+
+왜 이걸 하는거지?
+-> 결제(가격정보) 및 상품정보 조회???? 재고 관리
+
+통계 표시 하면 좋을것
+-> 많이 팔린 품목?? 차트??
+-> 현재 남아 있는 재고량을 차트로 표현? 시각화.
+
+아니면
+
+그냥 재고관리 말고 식단관리???
+식단관리는 식품정보 OPENAPI 검색하니까 오픈API가 있는듯??
+
+식단관리 목적 -> 
+20,30대 당뇨, 비만율 문제가 많다 건강한 몸을 위해서..
+당류가 많은 음식을 줄이자! 건강하게 살기.
+참고로 당류 1일 권장 적정 섭취량은 50g
+
+https://www.data.go.kr/data/15100064/standard.do?recommendDataYn=Y#tab_layer_grid
+
+https://www.data.go.kr/data/15100064/standard.do?recommendDataYn=Y#layer_data_infomation
+
+mssql에 csv파일 저장하기
