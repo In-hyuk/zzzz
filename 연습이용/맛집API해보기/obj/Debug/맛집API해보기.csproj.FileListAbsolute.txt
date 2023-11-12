@@ -1,0 +1,13 @@
+C:\Users\82109\Desktop\연습이용\맛집API해보기\bin\Debug\맛집API해보기.exe.config
+C:\Users\82109\Desktop\연습이용\맛집API해보기\bin\Debug\맛집API해보기.exe
+C:\Users\82109\Desktop\연습이용\맛집API해보기\bin\Debug\맛집API해보기.pdb
+C:\Users\82109\Desktop\연습이용\맛집API해보기\bin\Debug\Newtonsoft.Json.dll
+C:\Users\82109\Desktop\연습이용\맛집API해보기\bin\Debug\Newtonsoft.Json.xml
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.csproj.AssemblyReference.cache
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.Form1.resources
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.Properties.Resources.resources
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.csproj.GenerateResource.cache
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.csproj.CoreCompileInputs.cache
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.csproj.CopyComplete
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.exe
+C:\Users\82109\Desktop\연습이용\맛집API해보기\obj\Debug\맛집API해보기.pdb
