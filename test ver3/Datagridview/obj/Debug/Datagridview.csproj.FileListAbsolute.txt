@@ -1,9 +1,0 @@
-C:\Users\82109\Desktop\연습이용\Datagridview\bin\Debug\Datagridview.exe.config
-C:\Users\82109\Desktop\연습이용\Datagridview\bin\Debug\Datagridview.exe
-C:\Users\82109\Desktop\연습이용\Datagridview\bin\Debug\Datagridview.pdb
-C:\Users\82109\Desktop\연습이용\Datagridview\obj\Debug\Datagridview.csproj.AssemblyReference.cache
-C:\Users\82109\Desktop\연습이용\Datagridview\obj\Debug\Datagridview.Properties.Resources.resources
-C:\Users\82109\Desktop\연습이용\Datagridview\obj\Debug\Datagridview.csproj.GenerateResource.cache
-C:\Users\82109\Desktop\연습이용\Datagridview\obj\Debug\Datagridview.csproj.CoreCompileInputs.cache
-C:\Users\82109\Desktop\연습이용\Datagridview\obj\Debug\Datagridview.exe
-C:\Users\82109\Desktop\연습이용\Datagridview\obj\Debug\Datagridview.pdb
