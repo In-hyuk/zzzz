@@ -1,0 +1,5 @@
+보건복지부 국립정신건강센터_정신건강 관련기관 정보
+
+보건복지부 국립정신건강센터_정신건강 관련기관 정보_20220301
+
+https://api.odcloud.kr/api/3049990/v1/uddi:14a6ea21-af95-4440-bb05-81698f7a1987?page=1&perPage=3000&serviceKey=I35xhBVrKuRe7RbiQpN9NOkt%2B6JQT5Fd0fgCNDuB0dURcjnYRTmTeyrFaNHFDHVY%2FQ4etMclK24pY%2FdEMx2fGQ%3D%3D
