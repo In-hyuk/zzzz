@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://windowsforum.kr/files/attach/images/2966154/863/352/005/ad50ca386e3914e95ffc61a69d8b06b6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h{
+    padding: 5%;
+}
+h1{
+    text-align: center;
+    background-color: white;
+    margin: -10px;
+    padding: 25px;
+}
+h2{
+    padding: 5%;
+    margin-top: 10%;
+}
+h3{
+    padding: 5%;
+}
+p{
+    font-weight: bold;
+    padding: 5%
+}
+div{
+    border: 3px solid aquamarine;
+    background-color: aliceblue;
+    margin: auto;
+    width: 800px;
+    height:auto;
+    margin-top: 5%;       
+}
+hr{
+    width: 70%;
+    height: 3px;
+    background-color: lightgray;
+}
+input[type="submit"] {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid black;
+}
