@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <input type="radio" id="E" name="EI" value="E">
+        <label for="E">외향적(E)</label>
+        <input type="radio" id="I" name="EI" value="I">
+        <label for="I">내향적(I)</label>
+        <br>
+        <input type="radio" id="S" name="SN" value="S">
+        <label for="S">현실형(S)</label>
+        <input type="radio" id="N" name="SN" value="N">
+        <label for="N">직관형(N)</label>
+        <br>
+        <input type="radio" id="T" name="TF" value="T">
+        <label for="T">이성적(T)</label>
+        <input type="radio" id="F" name="TF" value="F">
+        <label for="F">감성적(F)</label>        
+        <br>
+        <input type="radio" id="J" name="JP" value="J">
+        <label for="J">계획형(J)</label>
+        <input type="radio" id="P" name="JP" value="P">
+        <label for="P">즉흥형(P)</label>
+        <br>
+        <input type="submit" value="제출하기">
+    </form>
+    
+    <h3 id="result"></h3>   <!-- 결과값 innerHTML로 전송할 예정 -->
+
+    <script>
+        // 함수 : 특정 기능을 수행하기 위한 명령문들의 집합
+        let one=document.getElementsByName("EI");
+        let two=document.getElementsByName("SN");
+        let three=document.getElementsByName("TF");
+        let four=document.getElementsByName("JP");
+
+        let mbti=getMbti(one, two, three, four);
+        function getMbti(o, t, th, f){
+            return o+t+th+f;
+        }
+        
+        let result = document.getElementById("result");
+        result.innerHTML(`당신의 MBTI는 ${mbti}입니다. `);
+    </script>
+</body>
+</html>

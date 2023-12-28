@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery-3.7.1.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <h1>보여주기 숨기기</h1>
+    <button id="showBtn">보여주기!</button>
+    <button id="hideBtn">숨기기!</button>
+    <button id="button">한번에 하는거</button>
+    
+    <script>
+        $(document).ready(function() {
+            $("#showBtn").click(function() {
+                $("h1").show(2000);
+	            alert("나옵니다..");
+            });
+            $("#hideBtn").click(function() {
+                $("h1").hide(2000);
+	            alert("사라집니다..");
+            });
+        });
+
+        $(document).ready(function() {
+            $("#button").click(function() {
+                $("h1").toggle(2000);
+            });
+        });
+    </script>
+
+</body>
+</html>
