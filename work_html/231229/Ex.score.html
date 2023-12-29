@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let score = {
+            // 필드 선언
+            good: 0,
+            subject: [0, 0, 0, 0, 0],
+
+            // 메소드 선언
+            subject_score: function () {
+                for (let i = 0; i < 5; i++) {
+                    if (this.subject[i] >= 40) {
+                        this.good = this.good + 1;
+                    }
+                }
+            },
+
+            sum_score: function () {
+                let sum = 0;
+                for (let i = 0; i < 5; i++) {
+                    sum = sum + this.subject[i];
+                }
+                let avg = sum / 5;
+                if (avg >= 60) {
+                    this.good = this.good + 1;
+                }
+                return { sum, avg }; // 합계와 평균을 반환
+            },
+
+            printresult: function () {
+                console.log("과목 점수:");
+                for (let i = 0; i < 5; i++) {
+                    console.log(`${i + 1}번째 과목 점수 ${this.subject[i]}`);
+                }
+
+                let total = this.sum_score();
+                console.log(`총점: ${total.sum}`);
+                console.log(`평균: ${total.avg}`);
+
+                if (this.good === 6) {
+                    console.log("합격");
+                } else {
+                    console.log("불합격");
+                }
+            }
+        }
+
+        for (let i = 0; i < 5; i++) {
+            let scoreInput = Number(prompt(`${i + 1}번째 과목 점수`));
+            score.subject[i] = scoreInput;
+        }
+
+        score.subject_score();
+        score.printresult();
+
+    </script>
+</body>
+
+</html>
