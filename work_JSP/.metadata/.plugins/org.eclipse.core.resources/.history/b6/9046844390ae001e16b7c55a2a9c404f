@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="java.util.*" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%
+	// Enumeration : 연결 리스트에 가깝
+	// array[0], array[1], ...
+	// en["name"], en["age"], ...
+	
+	// Enumeration 통해서, 세션에 저장되어있는 값들 불러오기
+	Enumeration en = session.getAttributeNames();
+
+%>
+</body>
+</html>

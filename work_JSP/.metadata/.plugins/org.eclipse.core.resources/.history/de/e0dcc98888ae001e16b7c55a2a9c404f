@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!-- com.javalex.ex 패키지 안에 있는 User 파일을 포함 -->
+<%@ page import="com.javalex.ex.User" %>
+<!DOCTYPE html>
+
+<!-- 액션 태그 : jsp 태그 중 일부 -->
+
+<!-- User.java를 통해서, user1 이라는 객체 생성 -->
+<jsp:useBean id="user1" class="com.javalex.ex.User" scope="page" />
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

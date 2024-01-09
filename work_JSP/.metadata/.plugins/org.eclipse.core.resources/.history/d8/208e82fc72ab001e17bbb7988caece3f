@@ -1,0 +1,43 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR" pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="EUC-KR">
+    <title>구구단 표</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, tr, td {
+            border: 1px solid black;
+        }
+        td {
+            padding: 10px;
+            text-align: center;
+        }
+        strong {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><strong>X</strong></td>
+            <% for(int i=2; i<=9; i++) { %>
+                <td><strong><%= i %></strong></td>
+            <% } %>
+        </tr>
+        
+        <% for(int j=1; j<=9; j++) { %>
+            <tr>
+                <td><strong><%= j %></strong></td>
+                <% for(int i=2; i<=9; i++) { %>
+                    <td><%= i * j %></td>
+                <% } %>
+            </tr>
+        <% } %>
+    </table>
+</body>
+</html>

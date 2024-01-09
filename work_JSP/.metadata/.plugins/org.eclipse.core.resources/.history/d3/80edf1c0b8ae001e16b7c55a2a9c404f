@@ -1,0 +1,43 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="java.util.ArrayList"%>
+<%@ page import="com.javalex.ex.studentDAO"%>
+<%@ page import="java.sql.*"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>학생 목록</title>
+</head>
+<body>
+    <h2>학생 목록</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>학번</th>
+                <th>이름</th>
+                <th>나이</th>
+                <th>학년</th>
+                <th>전공</th>
+            </tr>
+        </thead>
+        <tbody>
+            <%
+                studentDAO dao = new studentDAO();
+                ArrayList<String> studentList = dao.showAllStudent();
+                for (String studentData : studentList) {
+            %>
+                <tr>
+                    <td><%= studentData.split(", ")[0].split(": ")[1] %></td>
+                    <td><%= studentData.split(", ")[1].split(": ")[1] %></td>
+                    <td><%= studentData.split(", ")[2].split(": ")[1] %></td>
+                    <td><%= studentData.split(", ")[3].split(": ")[1] %></td>
+                    <td><%= studentData.split(", ")[4].split(": ")[1] %></td>
+                </tr>
+            <%
+                }
+            %>
+        </tbody>
+    </table>
+</body>
+</html>
