@@ -11,7 +11,7 @@
 </head>
 <body>
     <h2>학생 목록</h2>
-    <table border="1">
+    <table border="1" style="text-align:center">
         <thead>
             <tr>
                 <th>학번, 이름, 나이, 학년, 전공</th>

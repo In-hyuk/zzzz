@@ -140,7 +140,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="240104_start_jsp" path="/240104_start_jsp" reloadable="true" source="org.eclipse.jst.jee.server:240104_start_jsp"/><Context docBase="240105_JSP" path="/240105_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240105_JSP"/><Context docBase="240108_JSP" path="/240108_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240108_JSP"/><Context docBase="240109_JSP" path="/240109_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240109_JSP"/></Host>
+      <Context docBase="240104_start_jsp" path="/240104_start_jsp" reloadable="true" source="org.eclipse.jst.jee.server:240104_start_jsp"/><Context docBase="240105_JSP" path="/240105_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240105_JSP"/><Context docBase="240108_JSP" path="/240108_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240108_JSP"/><Context docBase="240109_JSP" path="/240109_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240109_JSP"/><Context docBase="240110_JSP" path="/240110_JSP" reloadable="true" source="org.eclipse.jst.jee.server:240110_JSP"/></Host>
     </Engine>
   </Service>
 </Server>

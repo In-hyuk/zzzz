@@ -1,0 +1,17 @@
+import java.sql.*;
+package com.javalex.ex;
+
+public class studentDAO {
+	// DAO : DB와 관련된 처리를 자바빈으로 따로 만들어서 처리
+	// jdbc : DB와의 연결을 돕는 도구
+	
+	// 데이터베이스 접속에 필요한 정보를 필드로 초기화
+	private String url="jdbc:mysql://localhost:3306/apidb";
+	private String id="root";
+	private String pw="1234";
+	
+	// 데이터베이스 사용에 필요한 객체 3가지
+	private Connection conn=null;
+	private Statement st=null;
+	private ResultSet rs=null;
+}

@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import="com.javalex.ex.studentDAO" %>    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table border="1">
+	<tr>
+		<th>학번, 이름, 나이, 학년, 전공</th>
+	</tr>
+	<%
+		studentDAO st = new studentDAO();
+			// 생성자에서 명령한대로, JDBC 드라이버 로드가 됨
+	%>
+</table>
+</body>
+</html>
