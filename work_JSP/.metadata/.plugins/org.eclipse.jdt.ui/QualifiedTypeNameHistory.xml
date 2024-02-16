@@ -4,6 +4,24 @@
     <fullyQualifiedTypeName name="jakarta.websocket.Session"/>
     <fullyQualifiedTypeName name="jakarta.servlet.http.Cookie"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.Command.MemberService"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.Command.MemberServiceInsert"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.Command.MemberServiceDelete"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.Command.MemberServiceSelect"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.Command.MemberServiceLogin"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.DTO.MemberDTO"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.DAO.MemberDAO"/>
+    <fullyQualifiedTypeName name="com.javalex.ex.Session.SessionUtil"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

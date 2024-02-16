@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Fri Feb 16 09:37:15 KST 2024
+org.eclipse.jst.jee.server\:240115_JSP=C\:\\Users\\user\\Desktop\\apache-tomcat-9.0.85\\wtpwebapps\\240115_JSP
+org.eclipse.jst.jee.server\:240116_JSP=C\:\\Users\\user\\Desktop\\apache-tomcat-9.0.85\\wtpwebapps\\240116_JSP
+org.eclipse.jst.jee.server\:Web_Project=C\:\\Users\\user\\Desktop\\apache-tomcat-9.0.85\\wtpwebapps\\Web_Project
+org.eclipse.jst.jee.server\:240118_d3=C\:\\Users\\user\\Desktop\\apache-tomcat-9.0.85\\wtpwebapps\\240118_d3
+org.eclipse.jst.jee.server\:240117_JSP=C\:\\Users\\user\\Desktop\\apache-tomcat-9.0.85\\wtpwebapps\\240117_JSP
+org.eclipse.jst.jee.server\:240111_JSP=C\:\\Users\\user\\Desktop\\apache-tomcat-9.0.85\\wtpwebapps\\240111_JSP

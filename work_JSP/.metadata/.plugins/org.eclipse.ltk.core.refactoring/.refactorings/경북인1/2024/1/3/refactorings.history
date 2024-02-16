@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 6 elements to &apos;WEB-INF&apos;&#x0D;&#x0A;- Original project: &apos;경북인1&apos;&#x0D;&#x0A;- Destination element: &apos;WEB-INF&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     login.html&#x0D;&#x0A;     companies.html&#x0D;&#x0A;     services.html&#x0D;&#x0A;     index.html&#x0D;&#x0A;     search jobs.html&#x0D;&#x0A;     recurments.html" description="Copy files" element1="login.html" element2="companies.html" element3="services.html" element4="index.html" element5="search jobs.html" element6="recurments.html" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1705547466168" target="/Web_Project/src/main/webapp/WEB-INF" units="0" version="1.0"/>
+</session>
