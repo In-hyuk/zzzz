@@ -1,0 +1,17 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main()
+{
+	FILE* fp = fopen("data.txt", "rt");
+	if (fp == NULL) {
+		printf("파일 오픈 실패!\n");
+		return -1;
+	}
+
+	for (int i = 0; i < 3; i++) {
+		char ch = fgetc(fp);
+		printf("%c\n", ch);
+	}
+	fclose(fp);
+}

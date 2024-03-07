@@ -1,0 +1,10 @@
+﻿  exam3.c
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(90,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(101,12): warning C4098: 'write_cust_dir': 'void' 함수에서 값을 반환하고 있습니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(115,12): warning C4098: 'write_cust_rand': 'void' 함수에서 값을 반환하고 있습니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(118,3): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(138,12): warning C4098: 'read_cust': 'void' 함수에서 값을 반환하고 있습니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(142,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(142,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 3과(와) 충돌합니다.
+E:\kb_인공지능11_C\230830_file2\230830_file2\exam3.c(157,12): warning C4098: 'del_all_cust': 'void' 함수에서 값을 반환하고 있습니다.
+  230830_file2.vcxproj -> E:\kb_인공지능11_C\230830_file2\x64\Debug\230830_file2.exe
